@@ -2,7 +2,7 @@
 
 ## Description
 
-Flashcards app is an easy way to learn English vocabulary. Insert data what you neeed to the database, print the table and learn your new vocabulary. Finally, exercise it by using flashcards.
+Flashcards app is an easy way to learn English vocabulary. Insert data what you need to the database, print the table and learn your new vocabulary. Finally, exercise it by using flashcards.
 
 ![main](https://user-images.githubusercontent.com/102864070/197813013-178170c8-9b2f-4e67-ad44-962412d8f11d.gif)
 

@@ -97,7 +97,7 @@ const displayUserTables = (user) => {
 ## Demo live preview
 
 ```sh
-insert link later
+https://flashcards-app-public.vercel.app/
 ```
 
 ## How to run?
